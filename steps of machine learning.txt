@@ -1,8 +1,0 @@
-steps of machine learning
-1. import
-2. clean data
-3. split data into training/test sets
-4. create model
-5. train model
-6. make prediction
-7. evaluate and improvement
